@@ -1,5 +1,0 @@
-D:\Arain\test\Marathon\Marathon\Marathon\bin\Release\Marathon.exe
-D:\Arain\test\Marathon\Marathon\Marathon\bin\Release\Marathon.pdb
-D:\Arain\test\Marathon\Marathon\Marathon\obj\x86\Release\ResolveAssemblyReference.cache
-D:\Arain\test\Marathon\Marathon\Marathon\obj\x86\Release\Marathon.exe
-D:\Arain\test\Marathon\Marathon\Marathon\obj\x86\Release\Marathon.pdb
